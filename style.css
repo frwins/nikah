@@ -210,7 +210,7 @@ body{
 /*Hp*/
 @media (max-width: 578px) {
     html {
-        font-size: 50%;
+        font-size: 60%;
     }
     .simply-countdown > .simply-section {
         padding: 45px;
